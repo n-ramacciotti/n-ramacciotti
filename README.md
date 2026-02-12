@@ -28,8 +28,8 @@ Hi there 👋 I'm Nicola.
 ## Table of Contents
 - [My Skills](#my-skills)
 - [Thesis](#thesis)
-- [Univeristy Projects](#university-projects)
 - [Open Source Contributions](#open-source-contributions)
+- [Univeristy Projects](#university-projects)
 
 ## My Skills
 
@@ -55,7 +55,7 @@ Hi there 👋 I'm Nicola.
 
 ### MSc Computer Engineering | University of Pisa 
 
-Design of a Secure Remote Access Management System (SRAMS) for confidential virtual machines. Rust implementation. [GitHub Repository](https://github.com/n-ramacciotti/remote-console).
+Design of a Secure Remote Access Management System (SRAMS) for confidential virtual machines. [GitHub Repository](https://github.com/n-ramacciotti/remote-console).
 
 [![Rust](https://skillicons.dev/icons?i=rust)](https://skillicons.dev) 
 
@@ -94,3 +94,12 @@ Performance evaluation of a Multiprogrammed Server System (MSS) [GitHub Reposito
 
 [![PHP](https://img.shields.io/badge/OMNeT%2B%2B-21518A?style=for-the-badge&logo=none&logoColor=white)](https://img.shields.io/)
 
+### FB
+FoodBack (FB) is an android application for analysis of physiolagical data and neural signals from wearable devices. Deep learning models were exploited to provide food enjoyment. [GitHub Repository](https://github.com/Dimerin/Foodback)
+
+[![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://img.shields.io/)
+
+### AD
+AutoDoctor (AD) is an intelligent system to assess car passenger's health by means of specific data collected by sensors attached to a Raspberry Pi. [GitHub Repository](https://github.com/Dimerin/AutoDoctor)
+
+[![Python](https://skillicons.dev/icons?i=py)](https://img.shields.io/)
