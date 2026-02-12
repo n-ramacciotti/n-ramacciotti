@@ -68,7 +68,7 @@ Design of a simulation and testing environment in Verilog for the 8-bit simple E
 ## Open Source Contributions
 
 ### Coconut-SVSM
-The Coconut-SVSM project is an open-source implementation of a secure virtual machine service module. 
+The [Coconut-SVSM](https://github.com/coconut-svsm/svsm) project is an open-source implementation of a secure virtual machine service module. 
 Commit history of my contributions is available at [coconut-svsm](https://github.com/coconut-svsm/svsm/commits?author=n-ramacciotti)
 and [coconut-alloc](https://github.com/coconut-svsm/coconut-alloc/commits?author=n-ramacciotti).
 
