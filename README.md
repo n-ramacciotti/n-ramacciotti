@@ -103,3 +103,6 @@ FoodBack (FB) is an android application for analysis of physiolagical data and n
 AutoDoctor (AD) is an intelligent system to assess car passenger's health by means of specific data collected by sensors attached to a Raspberry Pi. [GitHub Repository](https://github.com/Dimerin/AutoDoctor)
 
 [![Python](https://skillicons.dev/icons?i=py)](https://img.shields.io/)
+
+### BBS
+Bulletin Board System (BBS) is a client server architecture developed in C with particular attention to the cryptographic aspects, managed by OpenSSL. [GitHub Repository](https://github.com/n-ramacciotti/Bulletin-Board-System)
