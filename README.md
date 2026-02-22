@@ -51,6 +51,13 @@ Hi there 👋 I'm Nicola.
 [![My Skills](https://img.shields.io/badge/VHDL-orange?style=for-the-badge)](https://img.shields.io/)
 [![My Skills](https://img.shields.io/badge/Verilog-blue?style=for-the-badge)](https://img.shields.io/)
 
+### Virtualization
+[![My Skills](https://img.shields.io/badge/QEMU-blue?style=for-the-badge)](https://img.shields.io/)
+[![My Skills](https://img.shields.io/badge/KVM-red?style=for-the-badge)](https://img.shields.io/)
+[![My Skills](https://img.shields.io/badge/Confidential%20VMs-purple?style=for-the-badge)](https://img.shields.io/)
+[![My Skills](https://img.shields.io/badge/COCONUT--SVSM-green?style=for-the-badge)](https://img.shields.io/)
+
+
 ## Thesis
 
 ### MSc Computer Engineering | University of Pisa 
