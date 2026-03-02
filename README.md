@@ -22,7 +22,7 @@ Hi there 👋 I'm Nicola.
 # About Me:
 
 - **BSc in Computer Engineering** from the **University of Pisa** 
-- Currently pursuing an **MSc in Computer Engineering** at the **University of Pisa**
+- **MSc in Computer Engineering** from the **University of Pisa**
 - Passionate about Kernel Development, Virtualization and Hardware Design.
 
 ## Table of Contents
