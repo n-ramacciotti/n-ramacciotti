@@ -22,7 +22,7 @@ Hi there 👋 I'm Nicola.
 # About Me:
 
 - **BSc in Computer Engineering** from the **University of Pisa** 
-- Currently pursuing an **MSc in Computer Engineering** at the **University of Pisa**
+- **MSc in Computer Engineering** from the **University of Pisa**
 - Passionate about Kernel Development, Virtualization and Hardware Design.
 
 ## Table of Contents
@@ -113,3 +113,5 @@ AutoDoctor (AD) is an intelligent system to assess car passenger's health by mea
 
 ### BBS
 Bulletin Board System (BBS) is a client server architecture developed in C with particular attention to the cryptographic aspects, managed by OpenSSL. [GitHub Repository](https://github.com/n-ramacciotti/Bulletin-Board-System)
+
+[![Cpp](https://skillicons.dev/icons?i=cpp)](https://img.shields.io/)
