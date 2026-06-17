@@ -31,7 +31,7 @@ Hi there 👋 I'm Nicola.
 - [Open Source Contributions](#open-source-contributions)
 - [Univeristy Projects](#university-projects)
 
-## My Skills
+
 
 ### Programming
 [![My Skills](https://skillicons.dev/icons?i=rust,c,cpp)](https://skillicons.dev)
